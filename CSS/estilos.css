@@ -1,33 +1,9 @@
-.navbar-nav{
-    margin-left: 60%;
-}   
 
-@media(max-width: 768px){
-    .navbar-nav {
-        margin-left: 20%;
-    }
+.row{
+    margin-left: 10%;
+    margin-top: 8%;
+    gap: 5%;
 }
 
-@media(min-width: 768px) and (max-width: 897px) {
-	.navbar-nav{
-        margin-left: 20%;
-    }
-}
 
-@media(min-width: 897px) and (max-width: 992px) {
-	.navbar-nav{
-        margin-left: 40%;
-    }
-}
 
-@media(min-width: 992px) and (max-width: 1200px) {
-	.navbar-nav{
-        margin-left: 48%;
-    }
-}
-
-@media(min-width: 1400px){
-    .navbar-nav {
-        margin-left: 60%;
-    }
-}
