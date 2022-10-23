@@ -9,6 +9,7 @@ body {
 }
 #subtitulo{
     margin-top: 2%;
+    font-size: 30px;
 }
 
 #caixa1, #caixa2, #caixa3, #caixa4 {
@@ -21,6 +22,7 @@ body {
 
 #box1 {
     margin-top: 100px;
+    margin-bottom: 14%;
 }
 
 div h2 {
@@ -108,7 +110,6 @@ footer a{
     color: black;
     padding: 2%;
 }
-
 
 
 
